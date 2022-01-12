@@ -1,0 +1,35 @@
+.containor{
+    background-color: #0082e6;
+    width: 65vw;
+    height: 140px;
+    margin: 25px auto;
+    border-radius: 20px;
+}
+.containor h2{
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    text-align: center;
+    padding-top: 10px;
+}
+.containor ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.containor ul li{
+    list-style: none;
+    font-weight: 500;
+    padding: 0 50px;
+    font-size: 1.5em;
+
+}
+.containor ul li a:hover{
+    color: white;
+
+}
+.containor ul li a{
+  text-decoration: none;
+  color:black;
+
+}

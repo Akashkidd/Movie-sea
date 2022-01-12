@@ -1,0 +1,70 @@
+.containor3 {
+  background: #0082e6;
+  width: 70vw;
+  height: 40px;
+  margin: 10px auto;
+  border-radius: 25px;
+}
+.containor3 ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.containor3 ul li {
+  list-style: none;
+  margin: 10px;
+  font-size: 1.3em;
+}
+.containor3 ul li a {
+  text-decoration: none;
+  color: black;
+}
+.containor3 ul li a:hover {
+  color: white;
+}
+footer{
+    height: 240px;
+    width: 100vw;
+    background: #0082e6;
+}
+footer h2{
+
+    font-size: 40px;
+    text-align:center;
+    padding: 10px 0;
+    padding-top: 30px;
+}
+footer hr:nth-child(2){
+    width: 75%;
+    height: 2px;
+    margin: 0 auto;
+    
+}
+footer h3{
+    font-size: 25px;
+    text-align:center;
+    padding-top: 10px;
+}
+
+
+footer a ion-icon{
+    color:white;
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    
+}
+footer a ion-icon:hover{
+    color: black
+}
+
+footer hr{
+    width: 40%;
+    height: 2px;
+    margin: 0 auto;
+    
+}
+footer h4{
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 13px;
+}

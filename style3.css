@@ -1,0 +1,12 @@
+.containor2{
+    width: 95vw;
+    height: 100vh;
+    background-color: silver;
+    margin: 0 auto;
+}
+
+.containor2 .box{
+    background: red;
+    width: 1000px;
+    height: 1000px;
+}
