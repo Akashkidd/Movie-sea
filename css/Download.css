@@ -31,3 +31,21 @@
     justify-content: center;
 
 }
+.btn {
+    border-style: none;
+}
+.btn a {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    text-decoration: none;
+    border-style: none;
+
+}
+.Download .button{
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
