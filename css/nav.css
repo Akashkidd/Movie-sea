@@ -36,8 +36,22 @@ nav ul li a{
     padding: 7px 13;
     text-transform: uppercase;
     border-radius: 3px;
+    
 }
 a.active,a:hover{
     background:none;
     transform: .5s;
+}
+
+
+@media (max-width: 570px) {
+    nav ul{
+      display: none;
+    }
+}
+
+@media (max-width: 290px) {
+    body{
+        display: none;
+    }    
 }

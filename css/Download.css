@@ -1,0 +1,33 @@
+.Download{
+    width: 80vw;
+    height: 600px;
+    background-color: #0082e6;
+    margin: auto;
+    border-radius: 10px;
+}
+.Download h2{
+    font-size: 1.9em;
+    padding: 15px;
+    padding-bottom: 4px;
+}
+.Download hr{
+    font-size: 1.4em;
+    margin:  8px;
+}
+.Download img{
+    width: 60%;
+    /* padding: 15px; */
+    
+
+}
+.Download ion-icon{
+    color: red;
+    font-size: 50px;
+}
+.Download .Trailer{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
